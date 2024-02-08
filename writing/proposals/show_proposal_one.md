@@ -18,8 +18,6 @@
 
 <!---toc end-->
 
-## Add Your Name Here
-
 Zahnya Suber
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
@@ -109,9 +107,9 @@ conference proceedings that you studied when preparing this proposal.
 Make sure that you use correctly formatted Markdown links to the
 references that you consulted when writing this show proposal.
 
-- **Reference One**:“Requirements | Education Studies | Allegheny College.” Allegheny.edu, sites.allegheny.edu/education/requirements/#:~:text=The%20minor%20in%20Education%20Studies%20requires%20the%20successful. Accessed 6 Feb. 2024.
-- **Reference Two**:Undergraduate Minor in Education | Berkeley School of Education. bse.berkeley.edu/academics/undergraduate-programs/undergraduate-minor-education.
-- **Reference Three**:Huval, Rebecca D. “What Can I Do with My Education Minor?” UC Davis, 30 Mar. 2021, www.ucdavis.edu/majors/blog/what-can-i-do-my-education-minor.
+- **Reference One**:[Education minor requirements at Allegheny](https://sites.allegheny.edu/education/requirements/#:~:text=The%20minor%20in%20Education%20Studies%20requires%20the%20successful,must%20be%20at%20the%20300%20or%20400%20level.)
+- **Reference Two**:[Education minor requirements at another college](https://bse.berkeley.edu/academics/undergraduate-programs/undergraduate-minor-education)
+- **Reference Three**:[Benefits of having an Education minor](https://www.ucdavis.edu/majors/blog/what-can-i-do-my-education-minor)
 
 If you used any type of artificial intelligence (AI) writing assistant
 tools, please add an additional paragraph that explains clearly specific tools
