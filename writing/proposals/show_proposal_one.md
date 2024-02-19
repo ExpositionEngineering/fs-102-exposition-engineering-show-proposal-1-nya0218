@@ -79,26 +79,32 @@ the stated objectives for the podcast episode.
 Write at least three to five paragraphs that describe the content of the
 episode, ensuring that the description is both engaging and informative.
 
-Join in on the conversation about having an Education minor. Learn about the requirements, and listen to some college students give you insight
-about the minor your interested in. I will ask a junior that goes here questions about her experience with minoring in education. Some of the
-questions will be, is it fun, is it hard, what type of classes do/did you have to take, etc.
+Join in on the conversation about having an Education minor. Learn about the
+requirements, and listen to some college students give you insight about the
+minor your interested in. I will ask a junior that goes here questions about her
+experience with minoring in education. Some of the questions will be, is it fun,
+is it hard, what type of classes do/did you have to take, etc.
 
-I will ask her to show some of the assignements she had to do. For example she is taking a elementary school grade math and has to make 
-worksheets and give it to her class to see if they can solve it. She also has to present a whole lesson, as if she is a teacher. I will ask
-her to explain the process of doing so and how she feels about doing it.
+I will ask her to show some of the assignments she had to do. For example she is
+taking a elementary school grade math and has to make worksheets and give it to
+her class to see if they can solve it. She also has to present a whole lesson,
+as if she is a teacher. I will ask her to explain the process of doing so and
+how she feels about doing it.
 
-I will then ask her how she feels about Education being a minor and not a major. And will ask her what she thinks the benefits are of having it
-as a minor.
+I will then ask her how she feels about Education being a minor and not a major.
+And will ask her what she thinks the benefits are of having it as a minor.
 
 ## 📢 Call to Action
 
 After a person listens to this episode what do you want them to do?
 
-Have a thourogh understanding of having an education minor.
+Have a thorough understanding of having an education minor.
 
 Write at least two sentences that explain the call to action for this episode.
 
-My hope it after an incoming student listens to this episode, they would be able to have an understanding of having an Education minor. 
+My hope it after an incoming student listens to this episode, they would be able
+to have an understanding of having an Education minor.
+
 ## 🦜 References
 
 Please reference at least three web sites or articles from a journal or a
